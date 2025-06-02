@@ -13,11 +13,9 @@ A React-based client tool for PartsTrader that lets users validate part numbers,
 5. [Project Structure](#project-structure)
 6. [Usage](#usage)
 7. [Component Requirements & Behavior](#component-requirements--behavior)
-8. [Styling & Theming](#styling--theming)
-9. [Testing](#testing)
-10. [Linting](#linting)
-11. [Building for Production](#building-for-production)
-12. [License](#license)
+8. [Testing](#testing)
+9. [Linting](#linting)
+10. [Building for Production](#building-for-production)
 
 ---
 
